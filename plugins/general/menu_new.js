@@ -14,7 +14,7 @@ const __dirname = path.dirname(__filename);
 const videoPath = path.join(__dirname, "bin", "menu.mp4");
 const name = "╳-♡ Esu ♡🫶🏻❤️‍🩹";
 const BOT_PIC_URL =
-  "https://imgur.com/a/2vzbKyv";
+  "[https://i.ibb.co/q33KMkkj/Snapchat-1004713581.jpg](https://i.ibb.co/q33KMkkj/Snapchat-1004713581.jpg)";
 
 const runtime = (secs) => {
   const pad = (s) => s.toString().padStart(2, "0");
@@ -103,7 +103,7 @@ async function sendMenuLocationButtons(sock, from, botPic, botName, menuText) {
           },
         ],
         contentText: menuText,
-        footerText: "Made with love by X-♡Miku♡",
+        footerText: "Made with love by X-♡Esu♡",
         contextInfo: {
           mentionedJid: [],
           groupMentions: [],
@@ -180,10 +180,10 @@ Module({
 *┃🔖 ʀᴀᴍ     :* ${ram}
 *┃🌨️ ᴛɪᴍᴇ    :* ${time}
 *┃🫂 ᴜsᴇʀ    :* ${userName}
-*┃🕊️ ᴘᴀɪʀ   :* t.me/x_miku_1
+*┃🕊️ ᴘᴀɪʀ   :* t.me/x_Esu_1
 *╰════════════⊷*
 ${readMore}
-*♡︎•━━━Miku🤌🏻━━━•♡*
+*♡︎•━━━Esu🤌🏻━━━•♡*
 `;
       if (match && !grouped[match.toLowerCase()]) {
         _cmd_st += `\n🍌 *Package not found: ${match}*\n\n`;
@@ -202,7 +202,7 @@ ${readMore}
           _cmd_st += ` *┕─────────────❒*\n`;
         }
       }
-      // _cmd_st += `*~_Made with love by X-♡Miku♡😩🫶_~*`;
+      // _cmd_st += `*~_Made with love by X-♡Esu♡😩🫶_~*`;
     }
 
     // ✅ Send the location+buttons menu instead of the plain video caption
@@ -260,7 +260,7 @@ Module({
       out += ` *┕─────────────❒*\n`;
     }
 
-    out += `\n*♡︎•━━━Miku━━━•♡*`;
+    out += `\n*♡︎•━━━Esu━━━•♡*`;
 
     await message.conn.sendMessage(message.from, {
       text: out,
