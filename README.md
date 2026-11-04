@@ -11,7 +11,7 @@
 <br/>
 
 <p>
-  <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-%E2%89%A5%2022.13-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=0f0f1a" alt="Node.js" /></a>
+  <a href="https://nodejs.org/"><img . src="https://img.shields.io/badge/Node.js-%E2%89%A5%2022.13-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=0f0f1a" alt="Node.js" /></a>
   <a href="https://github.com/WhiskeySockets/Baileys"><img src="https://img.shields.io/badge/Baileys-7.0--rc14-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0f0f1a" alt="Baileys" /></a>
   <a href="https://github.com/nightx-rebel/socksy"><img src="https://img.shields.io/badge/Engine-Socksy-8b5cf6?style=for-the-badge&logoColor=white&labelColor=0f0f1a" alt="Socksy" /></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-22d3ee?style=for-the-badge&labelColor=0f0f1a" alt="MIT License" /></a>
