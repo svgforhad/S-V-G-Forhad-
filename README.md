@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/PostgreSQL-Session%20Store-4169e1?style=flat-square&logo=postgresql&logoColor=white&labelColor=0f0f1a" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/SQLite-Settings%20Store-003B57?style=flat-square&logo=sqlite&logoColor=white&labelColor=0f0f1a" alt="SQLite" />
   <img src="https://img.shields.io/badge/Telegram-Control%20Bot-26A5E4?style=flat-square&logo=telegram&logoColor=white&labelColor=0f0f1a" alt="Telegram" />
-  <img src="https://img.shields.io/badge/Architecture-Plugin--Based-ff4d94?style=flat-square&labelColor=0f0f1a" alt="Plugin based" />
+  <img. src="https://img.shields.io/badge/Architecture-Plugin--Based-ff4d94?style=flat-square&labelColor=0f0f1a" alt="Plugin based" />
 </p>
 
 <p>
