@@ -297,7 +297,8 @@ process.once("SIGTERM", () => gracefulShutdown("SIGTERM"));
 
 // ── Startup ────────────────────────────────────────────────────────────────────
 
-const PORT = process.env.PORT || 8080;
+const PORT = process.env.PORT || 0;
+
 
 
 (async function init() {
