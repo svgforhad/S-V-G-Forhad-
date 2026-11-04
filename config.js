@@ -37,7 +37,7 @@ export default {
   OWNER_IDS: process.env.OWNER_IDS || "",
 
   // Pairing: wait time between two /pair requests from the same user
-  PAIR_COOLDOWN_MS: 30_000,
+  PAIR_COOLDOWN_MS: 30_000, 
 
   // ─── WhatsApp ──────────────────────────────────
   WA_CHANNEL_LINK:
