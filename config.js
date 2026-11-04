@@ -26,11 +26,11 @@ export default {
 
   // ─── Telegram bot ──────────────────────────────
   // Token from @BotFather
-  BOT_TOKEN: process.env.BOT_TOKEN || "9157996056:AAGsL86MBD2qGn5QeGLLFkLoLjZJRj3Vq2E",
+  BOT_TOKEN: process.env.BOT_TOKEN || "9205099582:AAHo6l3jEufQHX28tG2RJl5h9CU1RbbQjjQ",
 
   // Official group where the bot works
-  ALLOWED_GROUP_ID: Number(process.env.TG_GROUP_ID) || -1003718062610,
-  GROUP_INVITE_LINK: process.env.TG_GROUP_LINK || "https://t.me/+UCI8ZK2c_v4xYmFl",
+  ALLOWED_GROUP_ID: Number(process.env.TG_GROUP_ID) || -5401757271,
+  GROUP_INVITE_LINK: process.env.TG_GROUP_LINK || "https://t.me/+i7zt_JKZny43ZDVl",
 
   // Telegram user IDs allowed to use /d, /s, /as
   // Example: "123456789,987654321"  (empty = any group admin)
