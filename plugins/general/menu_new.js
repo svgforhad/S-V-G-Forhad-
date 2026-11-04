@@ -12,9 +12,9 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 const videoPath = path.join(__dirname, "bin", "menu.mp4");
-const name = "╳-♡ Miku ♡🫶🏻❤️‍🩹";
+const name = "╳-♡ Esu ♡🫶🏻❤️‍🩹";
 const BOT_PIC_URL =
-  "https://i.pinimg.com/736x/92/05/a2/9205a2141d9ac9764b3a1b9c409d722e.jpg";
+  "https://imgur.com/a/2vzbKyv";
 
 const runtime = (secs) => {
   const pad = (s) => s.toString().padStart(2, "0");
