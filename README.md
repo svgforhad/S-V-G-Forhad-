@@ -143,7 +143,7 @@ npm install
 
 If you downloaded a ZIP instead of cloning with Git, extract it and open a terminal in the folder containing `package.json`.
 
-### 3. Configure the bot
+### 3. Configure the bot. 
 
 Create a `.env` file in the project root (the same directory as `package.json`):
 
