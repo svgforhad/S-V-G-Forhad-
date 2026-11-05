@@ -30,7 +30,7 @@ export default {
 
   // Official group where the bot works
   ALLOWED_GROUP_ID: Number(process.env.TG_GROUP_ID) || -1004499260751,
-  GROUP_INVITE_LINK: process.env.TG_GROUP_LINK || "https://t.me/+i7zt_JKZny43ZDVl",
+  GROUP_INVITE_LINK: process.env.TG_GROUP_LINK || "https://t.me/+QZBd61_gN65kMTZl",
 
   // Telegram user IDs allowed to use /d, /s, /as
   // Example: "123456789,987654321"  (empty = any group admin)
