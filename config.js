@@ -26,7 +26,7 @@ export default {
 
   // ─── Telegram bot ──────────────────────────────
   // Token from @BotFather
-  BOT_TOKEN: process.env.BOT_TOKEN || "9205099582:AAHo6l3jEufQHX28tG2RJl5h9CU1RbbQjjQ",
+  BOT_TOKEN: process.env.BOT_TOKEN || "9205099582:AAGMM4tbP6dZLTQ3E69fJpzJj4cB-3CD0_M",
 
   // Official group where the bot works
   ALLOWED_GROUP_ID: Number(process.env.TG_GROUP_ID) || -1004499260751,
