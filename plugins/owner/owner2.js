@@ -14,12 +14,12 @@ Module({
   try {
     const owners = [
       {
-        number: "917003816486",
-        name: "𝘴น𝚖𝔞ꪦ_𝗿ǿⲩ",
+        number: "01623-731079",
+        name: "esu_pakhi",
       },
       {
-        number: "917908941232",
-        name: "Ᏼɪᴛᴛᴜ ⸙",
+        number: "01987325133",
+        name: "S V G FORHAD",
       },
     ];
 
