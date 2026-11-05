@@ -29,7 +29,7 @@ export default {
   BOT_TOKEN: process.env.BOT_TOKEN || "9205099582:AAHo6l3jEufQHX28tG2RJl5h9CU1RbbQjjQ",
 
   // Official group where the bot works
-  ALLOWED_GROUP_ID: Number(process.env.TG_GROUP_ID) || -5401757271,
+  ALLOWED_GROUP_ID: Number(process.env.TG_GROUP_ID) || -1004499260751,
   GROUP_INVITE_LINK: process.env.TG_GROUP_LINK || "https://t.me/+i7zt_JKZny43ZDVl",
 
   // Telegram user IDs allowed to use /d, /s, /as
