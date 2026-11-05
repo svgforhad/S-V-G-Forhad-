@@ -14,7 +14,7 @@ const __dirname = path.dirname(__filename);
 const videoPath = path.join(__dirname, "bin", "menu.mp4");
 const name = "╳-♡ Esu ♡🫶🏻❤️‍🩹";
 const BOT_PIC_URL =
-  "[https://i.ibb.co/q33KMkkj/Snapchat-1004713581.jpg](https://i.ibb.co/q33KMkkj/Snapchat-1004713581.jpg)";
+  "https://i.ibb.co/q33KMkkj/Snapchat-1004713581.jpg";
 
 const runtime = (secs) => {
   const pad = (s) => s.toString().padStart(2, "0");
