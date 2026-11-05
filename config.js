@@ -41,7 +41,7 @@ export default {
 
   // ─── WhatsApp ──────────────────────────────────
   WA_CHANNEL_LINK:
-    process.env.WA_CHANNEL_LINK ||
+    process.env.WA_CHANNEL_LINK || 
     "https://whatsapp.com/channel/0029VbDow0j3mFYDCjRdfq3r",
 
   // ─── Sticker downloader (tgsticker plugin) ─────
